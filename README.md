@@ -6,7 +6,7 @@ Math 1: Calculus @ Dartmouth College
 </p>
 
 ### Slides 
-> #### Click :pancakes: &nbsp; :fried_egg: &nbsp; :ice_cream: to download
+> #### Click &nbsp; :pancakes: &nbsp; :fried_egg: &nbsp; :ice_cream: &nbsp; to download
 
 * #### Week One
 
