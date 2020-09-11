@@ -43,7 +43,14 @@ Math 1: Calculus @ Dartmouth College
   
 * #### Week Nine
 
-  * Derivatives of Log Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec25.pdf)
+  * Derivatives of Exp and Log Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec25.pdf)
   
   
-  
+### Exams 
+
+> #### Click the emoji to download
+
+* #### Midterm 1 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm1.pdf)
+* #### Midterm 2 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm2.pdf)
+* #### Final [:package:](https://github.com/fudab/Math-1/blob/master/exams/Final.pdf) 
+
