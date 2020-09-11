@@ -6,7 +6,7 @@ Math 1: Calculus @ Dartmouth College
 </p>
 
 ### Slides 
-> #### Click the emoji to download
+> #### Click [:pancakes:], [:fried_egg:], or [:ice_cream:] to download
 
 * #### Week One
 
@@ -44,11 +44,14 @@ Math 1: Calculus @ Dartmouth College
 * #### Week Nine
 
   * Derivatives of Exp and Log Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec25.pdf)
-  
+
+### Homework 
+> #### Click the emoji to download
+
   
 ### Exams 
 
-> #### Click the emoji to download
+> #### Click [:package:] to download
 
 * #### Midterm 1 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm1.pdf)
 * #### Midterm 2 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm2.pdf)
