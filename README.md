@@ -26,8 +26,24 @@ Math 1: Calculus @ Dartmouth College
   
 * #### Week Five
 
-  * Limit Laws [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec13.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuity [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec14.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Intermediate Value Theorem, Squeeze Theorem [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec15.pdf)
+  * Limit Laws [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec13.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuity [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec14.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Intermediate Value Theorem and Squeeze Theorem [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec15.pdf)
   
+* #### Week Six
+
+  * Defining the Derivative [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec16.pdf) &nbsp; &nbsp; &nbsp; &nbsp; The Derivative as a Function [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec17.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Limits, Continuity, and Differentiability [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec18.pdf)
+  
+
+* #### Week Seven
+
+  * Basic Rules for Derivatives [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec19.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Product and Quotient Rules [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec20.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Derivatives of Trig Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec21.pdf) 
+  
+* #### Week Eight
+
+  * The Chain Rule [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec22.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Implicit Differentiation [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec23.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Derivatives of Inverse Trig Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec24.pdf) 
+  
+* #### Week Nine
+
+  * Derivatives of Log Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec25.pdf)
   
   
   
