@@ -2,7 +2,7 @@
 Math 1: Calculus @ Dartmouth College
 
 <p align = "center" >
-<img src="./images/cover_chen.png" alt="" width="600">
+<img src="./images/cover_chen.png" alt="" width="900">
 </p>
 
 ### Slides 
