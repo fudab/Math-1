@@ -6,7 +6,7 @@ Math 1: Calculus @ Dartmouth College
 </p>
 
 ### Slides 
-> #### Click `:pancakes:`, `:fried_egg:`, or `:ice_cream:` to download
+> #### Click :pancakes:, :fried_egg:, or :ice_cream: to download
 
 * #### Week One
 
@@ -51,7 +51,7 @@ Math 1: Calculus @ Dartmouth College
   
 ### Exams 
 
-> #### Click `:package:` to download
+> #### Click :package: to download
 
 * #### Midterm 1 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm1.pdf)
 * #### Midterm 2 [:package:](https://github.com/fudab/Math-1/blob/master/exams/Midterm2.pdf)
