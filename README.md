@@ -60,7 +60,19 @@ Math 1: Calculus @ Dartmouth College
 
   * Homework 7 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW7.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW7_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 8 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW8.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW8_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 9 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW9.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW9_Solution.pdf)
   
+* #### Week Four
+
+  * Homework 10 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW10.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW10_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 11 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW11.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW11_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 12 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW12.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW12_Solution.pdf)
   
+* #### Week Five
+
+  * Homework 13 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW13.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW13_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 14 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW14.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW14_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 15 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW15.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW15_Solution.pdf)
+  
+* #### Week Six
+
+  * Homework 16 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW16.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW16_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 17 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW17.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW17_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 18 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW18.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW18_Solution.pdf)
+    
+
 ### Exams 
 
 > #### Click :package: to download
