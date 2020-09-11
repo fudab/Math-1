@@ -10,5 +10,5 @@ Math 1: Calculus @ Dartmouth College
 
 * #### Week One
 
-* Functions and Graphs [:pancakes:](https://github.com/fudab/Math-20/blob/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Operations on Functions, Even and Odd Functions [:pancakes:](https://github.com/fudab/math1.io/tree/master/slides/pdf/M1_Lec2.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Library of Functions [:pancakes:](https://github.com/fudab/math1.io/tree/master/slides/pdf/M1_Lec3.pdf)
+* Functions and Graphs [:pancakes:](https://github.com/fudab/Math-20/blob/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Operations on Functions, Even and Odd Functions [:pancakes:](https://github.com/fudab/Math-20/blob/master/slides/M20_Lec2.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Library of Functions [:pancakes:](https://github.com/fudab/Math-20/blob/master/slides/M20_Lec3.pdf)
 
