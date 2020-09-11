@@ -46,7 +46,7 @@ Math 1: Calculus @ Dartmouth College
   * Derivatives of Exp and Log Functions [:ice_cream:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec25.pdf)
 
 ### Homework 
-> #### Click the emoji to download
+> #### Click :envelope: &nbsp; :incoming_envelope: to download
 
 * #### Week One 
 
