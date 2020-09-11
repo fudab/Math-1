@@ -48,6 +48,9 @@ Math 1: Calculus @ Dartmouth College
 ### Homework 
 > #### Click the emoji to download
 
+* #### Week One 
+
+  * Homework 1 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW1.pdf)  &nbsp; &nbsp; Homework 1 Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW1_Solution.pdf)  
   
 ### Exams 
 
