@@ -80,6 +80,10 @@ Math 1: Calculus @ Dartmouth College
 
   * Homework 22 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW22.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW22_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 23 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW23.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW23_Solution.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homework 24 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW24.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW24_Solution.pdf)
 
+* #### Week Nine
+
+  * Homework 25 [:envelope:](https://github.com/fudab/Math-1/blob/master/homework/M1_HW25.pdf)  &nbsp; &nbsp; Solution [:incoming_envelope:](https://github.com/fudab/Math-1/blob/master/homework/solution/M1_HW25_Solution.pdf)
+  
 ### Exams 
 
 > #### Click :package: to download
