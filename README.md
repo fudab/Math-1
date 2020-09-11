@@ -20,4 +20,14 @@ Math 1: Calculus @ Dartmouth College
 
   * Inverse Functions [:pancakes:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec7.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Exponential and Logarithmic Functions [:pancakes:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Sequences [:pancakes:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec9.pdf)
   
+* #### Week Four
+  
+  * Limit of a Sequence [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec10.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bounded and Convergent Sequences [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec11.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Limit of a Function [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec12.pdf)
+  
+* #### Week Five
+
+  * Limit Laws [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec13.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuity [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec14.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Intermediate Value Theorem, Squeeze Theorem [:fried_egg:](https://github.com/fudab/Math-1/blob/master/slides/pdf/M1_Lec15.pdf)
+  
+  
+  
   
